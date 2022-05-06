@@ -1,2 +1,2 @@
 # go-Test
-go test 
+just for learning go
